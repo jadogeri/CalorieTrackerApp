@@ -1,7 +1,7 @@
 import { DarkTheme, DefaultTheme } from "@react-navigation/native";
 //import AsyncStorage from "@react-native-async-storage/async-storage";
 
-export const themeReducer = (state, action) => {
+export const themeReducer = (state , action ) => {
     //if current theme is Default during press
     //change theme to dark theme and vice versa
     switch (action.type) {
