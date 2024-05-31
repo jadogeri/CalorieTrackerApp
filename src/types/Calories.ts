@@ -1,0 +1,1 @@
+type Calorie = number;

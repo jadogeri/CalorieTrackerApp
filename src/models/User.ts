@@ -11,7 +11,7 @@ class User  {
     private email : string;
     private password : string;
 
-    public constructor(username : string, password : string, email : string ){
+    public constructor(email : string, password : string, username : string ){
 
         this.username = username;
         this.password = password;
