@@ -1,5 +1,4 @@
 
-import { Dispatch } from "react";
 import { IS_DARK_THEME } from "../actionTypes/themeActionTypes"
 
 export const toggleTheme = (dispatch ) => {
