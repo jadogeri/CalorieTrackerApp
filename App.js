@@ -13,6 +13,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Open up App.js to start working on your app!</Text>
       <Text> I want to play {football.getName()} burning {football.getCalories()} calories</Text>
+      <Text>hi there</Text>
 
       <StatusBar style="auto" />
     </View>
